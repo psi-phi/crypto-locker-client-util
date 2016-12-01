@@ -1,5 +1,7 @@
 # Proto Client
 
+This client util library helps to generate the json requests required for crypto-locker APIs.
+
 ## Build
 Build the executable jar using the following command:
 ```
